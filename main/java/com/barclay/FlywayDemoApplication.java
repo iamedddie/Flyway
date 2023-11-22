@@ -1,4 +1,4 @@
-package com.barclay.FlywayDemo;
+package com.barclay;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

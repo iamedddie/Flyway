@@ -1,4 +1,4 @@
-package com.barclay.FlywayDemo;
+package com.barclay;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
